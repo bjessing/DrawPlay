@@ -14,11 +14,11 @@ public class Cat {
 	private static final int EYE_HEIGHT = 20;
 	private static final int EYE_WIDTH = 10;
 	// pick mouth height, width is based on head dimension
-	private static final int MOUTH_HEIGHT = 10;
+	private static final int MOUTH_HEIGHT = 70;
 	private static final int MOUTH_WIDTH = HEAD_DIMENSION/4;
 	// mouth starts about 40% from left edge of head
-	private static final int MOUTH_X = HEAD_DIMENSION/5 * 2;
-	private static final int MOUTH_Y = HEAD_DIMENSION/5 * 3;
+	private static final int MOUTH_X = HEAD_DIMENSION/6 * 2;
+	private static final int MOUTH_Y = HEAD_DIMENSION/6 * 3;
 	// draw will render the Cat on the Graphics object
 	public void draw(Graphics g, int catX, int catY)
 	{
@@ -57,6 +57,6 @@ public class Cat {
 		
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
-		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
+		g2.drawString("MEOW.", catX, catY+HEAD_DIMENSION+10);	
 	}
 }
