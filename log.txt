@@ -1,0 +1,41 @@
+commit 6ea806d6992a4e14008c4f65f146e659f2154cd0
+Author: Benjamin Jessing <bjessing@mines.edu>
+Date:   Tue Feb 18 10:58:42 2020 -0700
+
+    Made the cat more excited--longer mouth, more meow.
+
+commit 345b67eb34da284007330a39e04bba5fac0e315b
+Author: marie-mccarthy <marie.mccarthy2000@gmail.com>
+Date:   Mon Feb 17 12:09:18 2020 -0700
+
+    marie's second commit
+
+commit 010bea941260369d039efcc405cd8cca7b5eae0a
+Author: Nicholas McClellan <nmcclellan@mymail.mines.edu>
+Date:   Mon Feb 17 12:04:17 2020 -0700
+
+    Changed the color of the cat's eyes green -> blue
+
+commit b053ef575e5d11354731b563eac25a185d77fad1
+Author: marie-mccarthy <marie.mccarthy2000@gmail.com>
+Date:   Mon Feb 17 11:47:35 2020 -0700
+
+    marie is trying to commit
+
+commit 0835a3ddafb0d8bd2275a1d47f6931de810d5402
+Author: Nicholas McClellan <nmcclellan@mymail.mines.edu>
+Date:   Mon Feb 17 10:55:18 2020 -0700
+
+    Changed window size & re-centered the cat.
+
+commit 5ad0d8bff98d9df2be7572a65e4bfa9ff4689168
+Author: Benjamin Jessing <bjessing@mines.edu>
+Date:   Sun Feb 16 13:05:09 2020 -0700
+
+    .gitignore: added *.classpath and *.project; added src/ from example code download
+
+commit abe2ea03a8859d33a877b7f3a4bd42a536bc2554
+Author: bjessing <60076802+bjessing@users.noreply.github.com>
+Date:   Sun Feb 16 12:44:49 2020 -0700
+
+    Initial commit
